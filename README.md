@@ -12,7 +12,7 @@ February 6,2021:
   7) Max Consecutive Ones III
   8) Maximum Sum subarray
   9) Permutation in Strings
-  
+
 February 13, 2021:
 
   1) Minimum Window Substring
@@ -22,3 +22,6 @@ February 13, 2021:
   5) Remove Element
   6) Squares of a Sorted Array
   7) 3 Sum
+  8) Linked List cycle
+  9) Length of Cycle
+  10) Linked List Cycle II
