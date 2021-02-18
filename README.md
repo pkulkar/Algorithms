@@ -30,3 +30,8 @@ February 16, 2021:
 
   1) Maximum Units on a Truck
   2) Baseball Game
+
+February 17, 2021:
+
+  1) Merge Two Sorted Lists
+  2) Reorder Data in Log Files
