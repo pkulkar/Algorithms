@@ -35,3 +35,20 @@ February 17, 2021:
 
   1) Merge Two Sorted Lists
   2) Reorder Data in Log Files
+
+February 22, 2021:
+
+  1) Average of Levels in Binary Tree
+  2) Binary Tree Level Order Traversal II
+  3) Binary Tree Level Order Traversal
+  4) Binary Tree Right Side View
+  5) Binary Tree Zigzag Level Order Traversal
+  6) Find Largest Value in Each Tree Row
+  7) Level order Successor
+  8) Maximum Depth of Binary Tree
+  9) Minimum Depth of Binary Tree
+ 10) Populating Next Right Pointers in Each Node
+ 11) Binary Tree Paths
+ 12) Path Sum II
+ 13) Path Sum
+ 14) Sum Root to Leaf Numbers
