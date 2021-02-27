@@ -52,3 +52,10 @@ February 22, 2021:
  12) Path Sum II
  13) Path Sum
  14) Sum Root to Leaf Numbers
+
+February 24, 2021:
+
+  1) Path Sum III
+  2) Diameter of Binary Tree
+  3) Binary Search
+  4) Merge Intervals
